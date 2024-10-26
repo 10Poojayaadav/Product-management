@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.54" height="27.442" viewBox="0 0 15.54 27.442">
+  <g id="Group_2005" data-name="Group 2005" transform="translate(6332 -964)">
+    <g id="cell-phone" transform="translate(-6337.951 964)">
+      <path id="Path_1456" data-name="Path 1456" d="M19.494,0H7.948a2,2,0,0,0-2,2V25.445a2,2,0,0,0,2,2H19.494a2,2,0,0,0,2-2V2A2,2,0,0,0,19.494,0ZM10.872,1.214h5.7c.144,0,.261.215.261.481s-.117.482-.261.482h-5.7c-.145,0-.26-.216-.26-.482S10.727,1.214,10.872,1.214Zm2.85,24.255a1.275,1.275,0,1,1,1.273-1.276A1.277,1.277,0,0,1,13.722,25.469ZM20,21.1H7.448V3.373H19.995V21.1Z" fill="#fff"/>
+    </g>
+    <g id="Layer_14" data-name="Layer 14" transform="translate(-6329.726 970.225)">
+      <circle id="Ellipse_391" data-name="Ellipse 391" cx="1.665" cy="1.665" r="1.665" transform="translate(3.831 2)" fill="#fff"/>
+      <path id="Path_1455" data-name="Path 1455" d="M5.849,13H5.143A3.153,3.153,0,0,0,2,16.163a.166.166,0,0,0,.166.166H8.825a.183.183,0,0,0,.166-.186A3.15,3.15,0,0,0,5.849,13Z" transform="translate(0 -7.338)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

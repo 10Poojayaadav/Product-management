@@ -1,0 +1,256 @@
+@media only screen and (max-width: 1366px) {
+  .library_content2>div .grid-chunk {
+    width: calc(50% - 20px);
+  }
+  
+  .pray.screen .content_wrapper {
+    font-size: 24px;
+    padding: 0 45px;
+  }
+
+  .content_wrapper .content p {
+    max-width: 915px;
+  }
+
+  .message-sidebar.pane > div:not(:first-child) {
+    padding-inline: 15px;
+  }
+
+  .grip-first-img {
+    padding: 5px;
+  }
+
+  .library-content-wrapper {
+    padding: 3px 5px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  header.header .nav .menus ul {
+    padding: 0 15px;
+  }
+
+  .library-content-wrapper {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  header.header .nav {
+    padding: 10px 15px;
+  }
+
+  header.header .nav .menus ul li:not(:last-child) {
+    margin-right: 20px;
+  }
+
+  .logged-in-user p {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  header.header .nav .menus a.logo {
+    font-size: 24px;
+  }
+
+  .chat-with .chat {
+    width: 100%;
+  }
+
+  .box-size-similar {
+    padding: 20px;
+  }
+
+  .chat-with .chat .message-actions .options {
+    top: 20px;
+    right: 0;
+    left: auto;
+  }
+
+  .chat-with .chat-me .ellipsis .options {
+    left: 0;
+    right: auto;
+  }
+
+  .message-sidebar .frnd-options ul li {
+    font-size: 14px;
+    padding: 5px 15px;
+  }
+
+  .reaction-emoji {
+    bottom: -35px;
+    font-size: 30px;
+  }
+
+  .chat-with .chat .ellipsis .options ul {
+    padding: 7px 15px;
+  }
+
+  .chat-with .chat .ellipsis .options ul li {
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .chat-with .chat .message-actions .smiley-emoji img,
+  .chat-with .chat .message-actions .hamburger img {
+    height: 25px;
+    width: 25px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  header.header .nav .menus a.logo {
+    font-size: 0;
+  }
+
+  header.header .nav .menus ul li {
+    font-size: 15px;
+  }
+
+  header.header .nav .logged-in-user .group {
+    padding-top: 5px;
+    padding-bottom: 17px;
+  }
+
+  .logged-in-user p {
+    font-size: 12px;
+  }
+
+  .messaging-zone {
+    flex-direction: column;
+  }
+
+  .message-sidebar,
+  .messaging-zone .messages-container {
+    max-width: unset;
+  }
+
+  .search-friend .search-area,
+  footer.message-footer .message-footer-inner .start-typing {
+    height: 35px;
+    font-size: 15px;
+  }
+
+  .message-sidebar .list-view .frnd {
+    padding: 5px 15px;
+  }
+
+  .message-sidebar .list-view .frnd .group .dp,
+  header.header .nav .logged-in-user .group .user-profilepic {
+    height: 40px;
+    width: 40px;
+  }
+
+  .message-sidebar .list-view .frnd .group .dp h3 {
+    font-size: 16px;
+  }
+
+  .message-sidebar .list-view .frnd .group .info .frnd-name {
+    font-size: 16px;
+  }
+
+  .chat-with,
+  footer.message-footer {
+    padding: 15px;
+  }
+
+  .box-size-similar,
+  .media {
+    padding: 10px;
+  }
+
+  .chat-with .chat.chat-me span,
+  .chat-with .chat.chat-other span {
+    font-size: 12px;
+  }
+
+  .chat-with .chat-info {
+    font-size: 12px;
+    margin: 10px 0;
+  }
+
+  .library-content-wrapper {
+    width: 100%;
+  }
+
+  .chat-with > div {
+    margin-bottom: 20px;
+  }
+
+  div.user-name {
+    margin-bottom: 0;
+  }
+
+  .reaction-emoji {
+    bottom: -15px;
+    font-size: 25px;
+  }
+
+  .friends-container .myfriend {
+    padding: 15px 20px;
+  }
+
+  .friends-container .actions ul {
+    max-width: 50%;
+    margin: 0 auto;
+  }
+
+  .pray.screen .content_wrapper {
+    padding: 25px 25px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  header.header .nav .menus ul {
+    padding: 0;
+  }
+
+  .friends-container .myfriends .myfriend {
+    width: 100%;
+  }
+
+  header.header .nav .menus ul li {
+    font-size: 12px;
+  }
+
+  header.header .nav .menus ul li:not(:last-child) {
+    margin-right: 5px;
+  }
+
+  .friends-container .myfriend {
+    flex-direction: column;
+  }
+
+  .friends-container .myfriend .profile,
+  .friends-container .actions {
+    width: 100%;
+  }
+
+  .friends-container .myfriend .profile {
+    margin-bottom: 10px;
+  }
+
+  .friends-container .actions ul {
+    margin-left: 0;
+  }
+
+  header.header .nav .v-btn {
+    max-width: 20px;
+  }
+
+  header.header .nav .logged-in-user .group .user-profilepic {
+    height: 35px;
+    width: 35px;
+  }
+
+  .logged-in-user p {
+    font-size: 10px;
+  }
+
+  .prayer-functions .function,
+  .prayer-functions .function .card {
+    width: 100%;
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.583" height="20.963" viewBox="0 0 20.583 20.963">
+  <g id="add-friend" transform="translate(-1 -0.583)">
+    <ellipse id="Ellipse_392" data-name="Ellipse 392" cx="4.557" cy="5.013" rx="4.557" ry="5.013" transform="translate(5.557 0.583)" fill="#fff"/>
+    <path id="Path_1457" data-name="Path 1457" d="M9.919,17A8.93,8.93,0,0,0,1,25.919a.686.686,0,0,0,.686.686H18.153a.686.686,0,0,0,.686-.686A8.93,8.93,0,0,0,9.919,17Z" transform="translate(0 -5.059)" fill="#fff"/>
+    <path id="Path_1458" data-name="Path 1458" d="M27.175,12.744H25.117V10.686a.686.686,0,0,0-1.372,0v2.058H21.686a.686.686,0,0,0,0,1.372h2.058v2.058a.686.686,0,0,0,1.372,0V14.117h2.058a.686.686,0,0,0,0-1.372Z" transform="translate(-6.278 -2.862)" fill="#fff"/>
+  </g>
+</svg>
